@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 3,
-			"revision" : 1,
+			"minor" : 5,
+			"revision" : 5,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 1474.0, 90.0, 1554.0, 956.0 ],
+		"rect" : [ 1472.0, -64.0, 1980.0, 931.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -128,9 +128,9 @@
 						"enabled" : [ 1 ],
 						"hipass" : [ 123 ],
 						"lopass" : [ 321 ],
-						"number[1]" : [ 41.0 ],
-						"rvbtime" : [ 22 ],
-						"wet" : [ 41.0 ]
+						"number[1]" : [ 38.0 ],
+						"rvbtime" : [ 8000 ],
+						"wet" : [ 38.0 ]
 					}
 ,
 					"text" : "autopattr",
@@ -148,7 +148,7 @@
 					"patching_rect" : [ 224.627482775041017, 90.218875219371796, 25.647057, 19.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 115.887101916596066, 38.713255599299487, 25.647057473659515, 19.0 ],
-					"text" : "s"
+					"text" : "ms"
 				}
 
 			}
@@ -178,8 +178,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -387,8 +387,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -827,8 +827,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 3,
-							"revision" : 1,
+							"minor" : 5,
+							"revision" : 5,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1582,10 +1582,10 @@
 				"boxes" : [ "obj-155", "obj-150", "obj-357" ]
 			}
 , 			{
-				"boxes" : [ "obj-149", "obj-142", "obj-5" ]
+				"boxes" : [ "obj-84", "obj-137", "obj-62", "obj-4", "obj-51" ]
 			}
 , 			{
-				"boxes" : [ "obj-84", "obj-137", "obj-62", "obj-4", "obj-51" ]
+				"boxes" : [ "obj-149", "obj-142", "obj-5" ]
 			}
  ],
 		"bgcolor" : [ 0.592156862745098, 0.847058823529412, 1.0, 1.0 ],
